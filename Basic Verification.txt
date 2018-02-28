@@ -1,4 +1,4 @@
-Postman Code.
+test Postman Code.
 
 //Verify Status Code
 pm.test("Status code is 200", function () {
